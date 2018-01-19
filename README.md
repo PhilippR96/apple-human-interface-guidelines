@@ -9,3 +9,5 @@
 ### Icons
 ### Leisten
 ### Ansichten
+## Technologien
+## Resourcen
