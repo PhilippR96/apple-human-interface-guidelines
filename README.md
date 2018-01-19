@@ -1,6 +1,10 @@
-# Apple Human Interface Guidelines
-Human Interface Guidelines dienen Entwicklern und Designern als Leitfaden zur Erstellung einer benutzerfreudlichen und intuitiven Applikation. Die meisten dieser Guidelines haben zudem die Funktion den Apps einer Anwendungsumgebung einen einheitlichen "Look and Feel" zu geben. Dies bedeutet, dass sowhol das visuelle Design als auch das Verhalten der Anwendungenen konsistent ist.   
+# Apple Human Interface Guidelines für iOS
+Human Interface Guidelines (HIG) dienen Entwicklern und Designern als Leitfaden zur Erstellung einer benutzerfreudlichen und intuitiven Applikation. Die meisten dieser Guidelines haben zudem die Funktion den Apps einer Anwendungsumgebung einen einheitlichen "Look and Feel" zu geben. Dies bedeutet, dass sowohl das visuelle Design als auch das Verhalten der Anwendungenen konsistent sein sollte.   
 ## Grundlagen
+Apple definiert drei Design-Philosophien, die den Guidelines als Grundlage dienen:
+* **Klarheit**
+* **Achtung**
+* **Tiefe**
 ## Aufbau der App
 ## Benutzerinteraktion
 ### Steuerelemente
