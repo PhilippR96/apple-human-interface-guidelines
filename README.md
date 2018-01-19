@@ -5,7 +5,12 @@ Apple definiert drei Design-Philosophien, die den Guidelines als Grundlage diene
 * **Klarheit.** Das Design sollte die Funktionalität der App unterstützen. Es ist subtil und vermittelt Interaktivität. 
 * **Achtung.** Der Inhalt der App steht im Vordergrund, nicht das Design. Es hilft beim Verstehen und Interagieren.
 * **Tiefe.** Das Navigieren durch die App vermittelt ein Gefühl von Tiefe. Der Nutzer "endeckt" die Anwendung. 
+
+Generell sollten sechs Prinzipien beachtet werden.
+
+
 ## Aufbau der App
+Der Nutzer sollte beim **Starten** der App möglichst schnell mit dieser interagieren können. 
 ## Benutzerinteraktion
 ### Steuerelemente
 ## Systemfähigkeiten
