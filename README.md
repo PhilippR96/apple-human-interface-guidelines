@@ -10,4 +10,4 @@
 ### Leisten
 ### Ansichten
 ## Technologien
-## Resourcen
+## Ressourcen
