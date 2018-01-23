@@ -27,7 +27,9 @@ sollte der Fortschritt angezeigt werden. Ladezeiten eigenen sich zum Anzeigen vo
 ## Benutzerinteraktion
 Ist eine **Authentisierung** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/authentication/)) notwendig, sollte diese so spät wie möglich gefordert werden. So gibt man dem Nutzer Zeit gefallen an der App zu finden. Die Nutzung von FaceID oder TouchID vereinfacht hierbei die Anmeldung.
 
-Bei einer **Dateneingabe** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/)sollte der Nutzer durch die Bereitstellung von Auswahlmöglichkeiten und Standardwerten unterstützt werden. Eingaben sollten direkt geprüft und der Nutzer sollte nur fortfahren können, wenn alle Pflichteingaben erfolgt und validiert sind.
+Bei einer **Dateneingabe** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/)) sollte der Nutzer durch die Bereitstellung von Auswahlmöglichkeiten und Standardwerten unterstützt werden. Eingaben sollten direkt geprüft und der Nutzer sollte nur fortfahren können, wenn alle Pflichteingaben erfolgt und validiert sind.
+
+**Drag and Drop** ist ein intuitiver Weg Inhalte einer App zu verschieben und zu kopieren. Beim Umherziehen sollte das gewählte Element als transparente Version von sich selbst dargestellt werden. Der Nutzer sollte eine dynamische Vorschau des Ergebnis eines Drops erhalten. Eine einfache Implementierung erreicht man durch die Nutzung der Standardelemente 'Text View' und 'Text Field'.  
 ### Steuerelemente
 ## Systemfähigkeiten
 ## Visuelles Design
