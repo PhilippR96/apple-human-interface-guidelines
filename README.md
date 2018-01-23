@@ -1,10 +1,16 @@
 # Apple Human Interface Guidelines für iOS
-Human Interface Guidelines (HIG) dienen Entwicklern und Designern als Leitfaden zur Erstellung einer benutzerfreudlichen und intuitiven Applikation. Die meisten dieser Guidelines haben zudem die Funktion den Apps einer Anwendungsumgebung einen einheitlichen "Look and Feel" zu geben. Dies bedeutet, dass sowohl das visuelle Design als auch das Verhalten der Anwendungenen konsistent sein sollte.  Die Nutzung dieser Guidelines ist keine Pflicht, jedoch behält Apple es sich vor Apps ,die schwer gegen die Design-Philosophie verstoßen und grundlegende Elemente entgegen ihres Sinnes nutzen, nicht für den Store freizugeben.  
+Human Interface Guidelines (HIG) dienen Entwicklern und Designern als Leitfaden zur Erstellung einer benutzerfreudlichen und intuitiven Applikation. Die meisten dieser Guidelines haben zudem die Funktion den Apps einer Anwendungsumgebung einen einheitlichen "Look and Feel" zu geben. Dies bedeutet, dass sowohl das visuelle Design als auch das Verhalten der Anwendungenen konsistent sein sollte.  Die Nutzung dieser Guidelines ist keine Pflicht, jedoch behält Apple es sich vor Apps ,die schwer gegen die Design-Philosophie verstoßen und grundlegende Elemente entgegen ihres Sinnes nutzen, nicht für den Store freizugeben.
+
+Dieses Dokument gibt ihnen einen **Überblick** der wichtigsten Inhalte.
+
+Die gesamten Guidelines können Sie [hier](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) in Englisch finden. In jedem Kapitel wird ein Link zum zuhörigen Kapitel der Guidelines, welche weitere Informationen enthalten, bereitgestellt. 
 ## Grundlagen
 Apple definiert drei Design-Philosophien, die den Guidelines als Grundlage dienen:
 * **Klarheit.** Das Design sollte die Funktionalität der App unterstützen. Es ist subtil und vermittelt Interaktivität. 
 * **Achtung.** Der Inhalt der App steht im Vordergrund, nicht das Design. Es hilft beim Verstehen und Interagieren.
-* **Tiefe.** Das Navigieren durch die App vermittelt ein Gefühl von Tiefe. Der Nutzer "endeckt" die Anwendung. 
+* **Tiefe.** Das Navigieren durch die App vermittelt ein Gefühl von Tiefe. Der Nutzer "endeckt" die Anwendung.
+
+
 ## Aufbau der App
 Der Nutzer sollte beim **Starten der App** schnellstmöglich mit dieser interagieren können. Tutorials sollten minimal sein und nur einmal angezeigt werden. Die App sollte immer in dem Zustand starten, in dem der Nutzer sie zuletzt beendet hat.  
 
