@@ -25,7 +25,9 @@ Beim **Laden von Daten** ([Link](https://developer.apple.com/ios/human-interface
 sollte der Fortschritt angezeigt werden. Ladezeiten eigenen sich zum Anzeigen von Tipps oder Informationen. 
 
 ## Benutzerinteraktion
+Ist eine **Authentisierung** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/authentication/)) notwendig, sollte diese so spät wie möglich gefordert werden. So gibt man dem Nutzer Zeit gefallen an der App zu finden. Die Nutzung von FaceID oder TouchID vereinfacht hierbei die Anmeldung.
 
+Bei einer **Dateneingabe** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/)sollte der Nutzer durch die Bereitstellung von Auswahlmöglichkeiten und Standardwerten unterstützt werden. Eingaben sollten direkt geprüft und der Nutzer sollte nur fortfahren können, wenn alle Pflichteingaben erfolgt und validiert sind.
 ### Steuerelemente
 ## Systemfähigkeiten
 ## Visuelles Design
