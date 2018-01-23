@@ -36,6 +36,7 @@ Elemente sollten **Feedback** ([Link](https://developer.apple.com/ios/human-inte
 **Gesten** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/gestures/)) sind die primäre Art mit einer App zu interagieren. Die Standardgesten (Tap, Swipe, usw.) sollten nur für ihre vordefinierten Zwecke eingesetzt werden. 
 ### Steuerelemente
 ## Systemfähigkeiten
+**Multitasking** 
 ## Visuelles Design
 ### Icons
 ### Leisten
