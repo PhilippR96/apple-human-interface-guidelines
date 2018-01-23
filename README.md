@@ -6,7 +6,8 @@ Apple definiert drei Design-Philosophien, die den Guidelines als Grundlage diene
 * **Achtung.** Der Inhalt der App steht im Vordergrund, nicht das Design. Es hilft beim Verstehen und Interagieren.
 * **Tiefe.** Das Navigieren durch die App vermittelt ein Gefühl von Tiefe. Der Nutzer "endeckt" die Anwendung. 
 ## Aufbau der App
-Der Nutzer sollte beim **Starten** der App schnellstmöglich mit dieser interagieren können. Tutorials sollten minimal sein und nur einmal angezeigt werden. Die App sollte immer in dem Zustand starten, in dem der Nutzer sie zuletzt beendet hat.  Um eine intuitive **Navigation** zu ermöglichen muss dem Nutzer jederzeit klar sein, wo innerhalb der App er sich befindet und wie er sein nächstes Ziel erreicht. Apple empfiehlt die Nutzung seiner Standardnavigationselemente, da diese den meisten Nutzern bereits bekannt sind.  **Berechtigungen**, wie den Zugriff auf Kontakte oder die Kamera, sollten zu dem Zeitpukt erfragt werden, in dem sie benötigt werden. Dem Nutzer sollte innerhalb der Berechtigungsanfrage präzise erklärt werden, warum eine Berechtigung benötigt wird.
+Der Nutzer sollte beim **Starten** der App schnellstmöglich mit dieser interagieren können. Tutorials sollten minimal sein und nur einmal angezeigt werden. Die App sollte immer in dem Zustand starten, in dem der Nutzer sie zuletzt beendet hat.  
+Um eine intuitive **Navigation** zu ermöglichen muss dem Nutzer jederzeit klar sein, wo innerhalb der App er sich befindet und wie er sein nächstes Ziel erreicht. Apple empfiehlt die Nutzung seiner Standardnavigationselemente, da diese den meisten Nutzern bereits bekannt sind.  **Berechtigungen**, wie den Zugriff auf Kontakte oder die Kamera, sollten zu dem Zeitpukt erfragt werden, in dem sie benötigt werden. Dem Nutzer sollte innerhalb der Berechtigungsanfrage präzise erklärt werden, warum eine Berechtigung benötigt wird.
 
 ## Benutzerinteraktion
 ### Steuerelemente
