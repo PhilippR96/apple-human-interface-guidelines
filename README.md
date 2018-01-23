@@ -29,7 +29,11 @@ Ist eine **Authentisierung** ([Link](https://developer.apple.com/ios/human-inter
 
 Bei einer **Dateneingabe** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/data-entry/)) sollte der Nutzer durch die Bereitstellung von Auswahlmöglichkeiten und Standardwerten unterstützt werden. Eingaben sollten direkt geprüft und der Nutzer sollte nur fortfahren können, wenn alle Pflichteingaben erfolgt und validiert sind.
 
-**Drag and Drop** ist ein intuitiver Weg Inhalte einer App zu verschieben und zu kopieren. Beim Umherziehen sollte das gewählte Element als transparente Version von sich selbst dargestellt werden. Der Nutzer sollte eine dynamische Vorschau des Ergebnis eines Drops erhalten. Eine einfache Implementierung erreicht man durch die Nutzung der Standardelemente `Text View` und `Text Field`.  
+**Drag and Drop** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/drag-and-drop/)) ist ein intuitiver Weg Inhalte einer App zu verschieben und zu kopieren. Beim Umherziehen sollte das gewählte Element als transparente Version von sich selbst dargestellt werden. Der Nutzer sollte eine dynamische Vorschau des Ergebnis eines Drops erhalten. Eine einfache Implementierung erreicht man durch die Nutzung der Standardelemente `Text View` und `Text Field`.  
+
+Elemente sollten **Feedback** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/feedback/)) in Form von Statusinformationen bereitstellen. Ein Nutzer, der mit der App interagiert, sollte haptisches Feedback zu seinen Aktionen erhalten. Apple stellt hierfür standardisiertes Feedback für unterschiedliche Situationen zur Verfügung.
+
+**Gesten** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/gestures/)) sind die primäre Art mit einer App zu interagieren. Die Standardgesten (Tap, Swipe, usw.) sollten nur für ihre vordefinierten Zwecke eingesetzt werden. 
 ### Steuerelemente
 ## Systemfähigkeiten
 ## Visuelles Design
