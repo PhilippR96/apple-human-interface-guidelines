@@ -6,7 +6,7 @@ Apple definiert drei Design-Philosophien, die den Guidelines als Grundlage diene
 * **Achtung.** Der Inhalt der App steht im Vordergrund, nicht das Design. Es hilft beim Verstehen und Interagieren.
 * **Tiefe.** Das Navigieren durch die App vermittelt ein Gefühl von Tiefe. Der Nutzer "endeckt" die Anwendung. 
 ## Aufbau der App
-Der Nutzer sollte beim **Starten** der App schnellstmöglich mit dieser interagieren können. Tutorials sollten minimal sein und nur einmal angezeigt werden. Die App sollte immer in dem Zustand starten, in dem der Nutzer sie zuletzt beendet hat.  
+Der Nutzer sollte beim **Starten der App** schnellstmöglich mit dieser interagieren können. Tutorials sollten minimal sein und nur einmal angezeigt werden. Die App sollte immer in dem Zustand starten, in dem der Nutzer sie zuletzt beendet hat.  
 
 Um eine intuitive **Navigation** zu ermöglichen muss dem Nutzer jederzeit klar sein, wo innerhalb der App er sich befindet und wie er sein nächstes Ziel erreicht. Apple empfiehlt die Nutzung seiner Standardnavigationselemente, da diese den meisten Nutzern bereits bekannt sind.
 
@@ -15,8 +15,9 @@ Um eine intuitive **Navigation** zu ermöglichen muss dem Nutzer jederzeit klar 
 
 **Einstellungen** sollten nach Möglichkeit so gewählt werden, dass die meisten Nutzer die App direkt benutzen können. Werden Informationen benötigt, sollte zunächst versucht werden, diese über das System zu erlangen. Einstellungen, die häufig geändert werden müssen, sollten für den Nutzer schnell erreichbar sein.
 
-Beim **Laden** von Daten sollte dem Benutzer mittels eines Spinners verdeutlicht werden, dass die App noch aktiv ist, wenn möglich sollte der Fortschritt angezeigt werden. Ladezeiten eigenen sich zum Anzeigen von Tipps oder Informationen. 
+Beim **Laden von Daten** sollte dem Benutzer mittels eines Spinners verdeutlicht werden, dass die App noch aktiv ist, wenn möglich sollte der Fortschritt angezeigt werden. Ladezeiten eigenen sich zum Anzeigen von Tipps oder Informationen. 
 ## Benutzerinteraktion
+
 ### Steuerelemente
 ## Systemfähigkeiten
 ## Visuelles Design
