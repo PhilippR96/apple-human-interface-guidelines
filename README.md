@@ -35,6 +35,13 @@ Elemente sollten **Feedback** ([Link](https://developer.apple.com/ios/human-inte
 
 **Gesten** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/gestures/)) sind die primäre Art mit einer App zu interagieren. Die Standardgesten (Tap, Swipe, usw.) sollten nur für ihre vordefinierten Zwecke eingesetzt werden. 
 ### Steuerelemente
+Apple stellt mehrere **Button-Designs** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/buttons/)) bereit, System Buttons bieten die meisten Anwendungsmöglichkeiten. Kurze Verben im Titel machen es Nutzern hierbei leicht verständlich, welche Folgen das Drücken eines solchen Buttons hat. 
+
+**Labels** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/labels/))sind die einfachste Form statischen Text auszugeben. Dieser sollte möglichst kurz und gut lesbar sein und sich dynamisch an die Textgröße des Systems anpassen. Auch sollten Aspekte der erleichterten Bedinung in Betracht gezogen werden.
+
+**Textfelder** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/text-fields/)) ermöglichen dem Benutzer eine Dateneingabe. Mittels eines Platzhalters und/oder eines Bildes am linken Feldrand kann ein Benutzer erkennen, welche Art Daten erforderlich sind. Für sensible Daten sollte immer ein gesichertes Textfeld bereitgestellt werden. 
+
+
 ## Systemfähigkeiten
 **Multitasking** 
 ## Visuelles Design
