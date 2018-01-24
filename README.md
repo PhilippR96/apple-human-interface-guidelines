@@ -35,7 +35,7 @@ Elemente sollten **Feedback** ([Link](https://developer.apple.com/ios/human-inte
 
 **Gesten** ([Link](https://developer.apple.com/ios/human-interface-guidelines/user-interaction/gestures/)) sind die primäre Art mit einer App zu interagieren. Die Standardgesten (Tap, Swipe, usw.) sollten nur für ihre vordefinierten Zwecke eingesetzt werden. 
 ### Steuerelemente
-Apple stellt mehrere **Button-Designs** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/buttons/)) bereit, System Buttons bieten die meisten Anwendungsmöglichkeiten. Kurze Verben im Titel machen es Nutzern hierbei leicht verständlich, welche Folgen das Drücken eines solchen Buttons hat. 
+Apple stellt mehrere Designs für **Buttons** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/buttons/)) bereit, System Buttons bieten die meisten Anwendungsmöglichkeiten. Kurze Verben im Titel machen es Nutzern hierbei leicht verständlich, welche Folgen das Drücken eines solchen Buttons hat. 
 
 **Labels** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/labels/))sind die einfachste Form statischen Text auszugeben. Dieser sollte möglichst kurz und gut lesbar sein und sich dynamisch an die Textgröße des Systems anpassen. Auch sollten Aspekte der erleichterten Bedinung in Betracht gezogen werden.
 
@@ -45,7 +45,7 @@ Ein **Picker** ([Link](https://developer.apple.com/ios/human-interface-guideline
 
 Weitere Elemente, die es Nutzern ermöglichen aus vorgegebenen Werten auszuwählen sind **Slider** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/sliders/)) über die Werte zwischen einem Minimal- und einem Maximalwert ausgewählt werden können, **Stepper** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/steppers/)), die es ermöglichen Werte inkrementell anzupassen und **Switches** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/switches/)), bei denen zwischen an und aus gewählt werden kann. Bei allen diesen Elementen ist es wichtig, dem Nutzer bewusst zu machen, welche Änderungen er vornimmt.   
 ## Systemfähigkeiten
-**Multitasking** ([Link](https://developer.apple.com/ios/human-interface-guidelines/system-capabilities/multitasking/)bietet den Nutzen die Möglichkeit schnell und bequem zwischen mehreren Apps hin- und herzuwechseln. Um dieses grundlegende Feature von iOS zu unterstützen sollte darauf geachtet werden, dass die App nur so viele Systemressourcen beansprucht, wie wirklich benötigt. Des weiteren ist sollte die App ihren aktuellen Zustand beim Schließen schnell speichern und beim erneuten Öffen schnell wiederherstellen. Initierte Tasks, die keine weitere Benutzereingabe erfordern, sollten auch beim Schließen der App durchgeführt werden. 
+**Multitasking** ([Link](https://developer.apple.com/ios/human-interface-guidelines/system-capabilities/multitasking/)) bietet den Nutzen die Möglichkeit schnell und bequem zwischen mehreren Apps hin- und herzuwechseln. Um dieses grundlegende Feature von iOS zu unterstützen sollte darauf geachtet werden, dass die App nur so viele Systemressourcen beansprucht, wie wirklich benötigt. Des weiteren ist sollte die App ihren aktuellen Zustand beim Schließen schnell speichern und beim erneuten Öffen schnell wiederherstellen. Initierte Tasks, die keine weitere Benutzereingabe erfordern, sollten auch beim Schließen der App durchgeführt werden. 
 
 **Mitteilungen**
 
