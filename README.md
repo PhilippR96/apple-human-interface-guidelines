@@ -41,7 +41,9 @@ Apple stellt mehrere **Button-Designs** ([Link](https://developer.apple.com/ios/
 
 **Textfelder** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/text-fields/)) ermöglichen dem Benutzer eine Dateneingabe. Mittels eines Platzhalters und/oder eines Bildes am linken Feldrand kann ein Benutzer erkennen, welche Art Daten erforderlich sind. Für sensible Daten sollte immer ein gesichertes Textfeld bereitgestellt werden. 
 
+Ein **Picker** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/pickers/)) ermöglicht es Nutzern schnell aus einer Menge an bereitgestellten Werten den gewünschten auszuwählen. Die Daten sollten hierbei vorhersehbar und logisch angeordnet werden. Apple stellte standardmäßig einen Date Picker zur Verfügung.
 
+Weitere Elemente, die es Nutzern ermöglichen aus vorgegebenen Werten auszuwählen sind **Slider** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/sliders/)) über die Werte zwischen einem Minimal- und einem Maximalwert ausgewählt werden können, **Stepper** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/steppers/)), die es ermöglichen Werte inkrementell anzupassen und **Switches** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/switches/)), bei denen zwischen an und aus gewählt werden kann. Bei allen diesen Elementen ist es wichtig, dem Nutzer bewusst zu machen, welche Änderungen er vornimmt.   
 ## Systemfähigkeiten
 **Multitasking** 
 ## Visuelles Design
