@@ -47,9 +47,9 @@ Weitere Elemente, die es Nutzern ermöglichen aus vorgegebenen Werten auszuwähl
 ## Systemfähigkeiten
 **Multitasking** ([Link](https://developer.apple.com/ios/human-interface-guidelines/system-capabilities/multitasking/)) bietet den Nutzen die Möglichkeit schnell und bequem zwischen mehreren Apps hin- und herzuwechseln. Um dieses grundlegende Feature von iOS zu unterstützen sollte darauf geachtet werden, dass die App nur so viele Systemressourcen beansprucht, wie wirklich benötigt. Des weiteren ist sollte die App ihren aktuellen Zustand beim Schließen schnell speichern und beim erneuten Öffen schnell wiederherstellen. Initierte Tasks, die keine weitere Benutzereingabe erfordern, sollten auch beim Schließen der App durchgeführt werden. 
 
-**Mitteilungen**
+Das Anzeigen von **Mitteilungen** ([Link](https://developer.apple.com/ios/human-interface-guidelines/system-capabilities/notifications/))geben einer App die Möglichkeit Nutzer zu informieren, wenn sich die Daten oder der Status der App geändert hat. Die angezeigte Nachricht sollte sich auf das Übermitteln nützlicher Informationen beschränken. Name und Icon der App werden hierbei automatisch angezeigt. Es sollte vermieden werden, zu viele und besonders mehrere gleiche Mitteilungen an den Nutzer zu senden.  
 
-**Siri**
+Die Integration von **Siri** ([Link](https://developer.apple.com/ios/human-interface-guidelines/system-capabilities/siri/)) ermöglicht es Nutzern Sprachsteuerung für spezifische Aktionen der App zu verwenden. Aktionen, die mittels Siri ausgeführt werden können sollten vollständig über die Sprachsteuerung durchführbar sein und nur wenige Spracheingaben des Nutzers erfordern. Es besteht die Möglichkeit das von Apple bereitgestellte Vokabular um app-spezifisches Vokabular zu erweitern. 
 ## Visuelles Design
 **Auto Layout**
 
