@@ -57,12 +57,19 @@ Richtig eingesetzt können **Animationen** ([Link](https://developer.apple.com/i
 
 **Farben** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/)) sind ein einfacher Weg mit dem Nutzer zu kommunizieren. Die innerhalb einer App genutzten Farbpalette sollte konsisten und nicht zu umfangreich sein. Hierbei sollte eine Farbe als Indikator für Interaktivität gewählt werden. Sehschwächen und kulturelle Unterschiede sollten bei der Farbwahl beachtet und 
 
-Die Beachtung der **Terminologie** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/terminology/)) und der **Typografie** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/)) ermöglicht es dem Benutzer ein angenehmes Leseerlebnis zu schaffen. Wörter und Sätze sollten der Zielgruppe entsprechend gewählt werden und Informationen kurz und prägnant bereitstellen. Die Beschreibung von Interaktionen sollte konsistent sein. Die gewählte Schriftart sollte über die gesamte App hinweg einheitlich sein und nur zum Anzeigen wichtiger Informationen verändert werden. Apple empfiehlt die Benutzung der bereitgestellten Text Styles.
+Die Beachtung der **Terminologie** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/terminology/)) und der **Typografie** ([Link]()) https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/)) ermöglicht es dem Benutzer ein angenehmes Leseerlebnis zu schaffen. Wörter und Sätze sollten der Zielgruppe entsprechend gewählt werden und Informationen kurz und prägnant bereitstellen. Die Beschreibung von Interaktionen sollte konsistent sein. Die gewählte Schriftart sollte über die gesamte App hinweg einheitlich sein und nur zum Anzeigen wichtiger Informationen verändert werden. Apple empfiehlt die Benutzung der bereitgestellten Text Styles.
 ### Icons und Bilder
 Es ist zu beachten, dass **verschiedene Auflösungen** bereitgestellt werden müssen, um eine Vielzahl an Geräten zu unterstützen. Das App Icon als Einstiegspunkt in die App sollte einprägsam sein und die Funktion dieser so simple wie möglich verdeutlichen. Innerhalb der App sollten die standardiserten **System Icons** genutzt werden, wo immer dies möglich ist. Appspezifische Icons sollten simple und konsistent sein. Der Startbildschirm sollte der ersten Ansicht, mit der Nutzer nach dem Laden interagieren können, ähneln und keinen Text beinhalten, da dieser nicht lokalisierbar ist.
 
-([Weiterführende Informationen](https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/image-size-and-resolution/))
-### Bars
+[Weiterführende Informationen](https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/image-size-and-resolution/)
+### Leisten
+Die **Navigationsleiste** ([Link](https://developer.apple.com/ios/human-interface-guidelines/bars/navigation-bars/)) am oberen Bildschirmrand sollte den Nutzer links zur vorherigen Ansicht zurückkehren und rechts, die gesamte Ansicht betreffende, Aktionen ausführen lassen. In der Mitte wird wird in der Regel der Titel der aktuellen Ansicht angezeigt. 
+
+Die **Suchleiste** ([Link](https://developer.apple.com/ios/human-interface-guidelines/bars/search-bars/)) sollte immer zur Implementierung einer Suchfunktion genutzt werden. 
+
+Eine **Tab Bar** ([Link](https://developer.apple.com/ios/human-interface-guidelines/bars/tab-bars/)) am unteren Bildschirmrand ermöglicht es Nutzern schnell zwischen verschiedenen Sectionen innerhalb einer App zu wechseln. Sie sollte mit aussagekräftigen Icons und Wörtern versehen werden und sich auf wenige Tabs beschränken.
+
+Mittels einer **Toolbar** ([Link](https://developer.apple.com/ios/human-interface-guidelines/bars/toolbars/)) können dem Nutzer am unteren Bildschirmrand Aktionen ausführen, die die aktuelle Ansicht oder deren Inhalt betreffen. Es sollte sich auf häufig durchzuführende Aktionen beschränkt werden, die sich bestenfalls ausschließlich durch Icons darstellen lassen.  
 ### Ansichten
 **Tabelle**
 **Karte**
