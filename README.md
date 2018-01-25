@@ -69,7 +69,8 @@ Weitere Elemente, die es Nutzern ermöglichen aus vorgegebenen Werten auszuwähl
 **Action Sheet**
 **Meldung**
 ## Technologien
-Apple stellt eine Vielzahl an Technologien, wie Apple Pay, iCloud oder eine der vielen Kits, bereit. Durch die Implementierung dieser kann die App ohne große Eigenentwicklungen um Features erweitert werden, die iOS-Benutzer kennen und schätzen. Hierbei sollte jedoch darauf geachtet werden, dass die genutzen Technologien sich für den jeweiligen Anwendungsfall der App eignen und ihre Implementierung für den Nutzer einen Mehrwert schafft. 
+Apple stellt eine Vielzahl an Technologien (z.B. Apple Pay, iCloud oder verschieden sogenannte Kits) bereit. Durch die Implementierung dieser kann die App ohne große Eigenentwicklungen um Features erweitert werden, die iOS-Benutzer kennen und schätzen. Hierbei sollte jedoch darauf geachtet werden, dass die genutzen Technologien sich für den jeweiligen Anwendungsfall der App eignen und ihre Implementierung für den Nutzer einen Mehrwert schafft.
+
 [Weiterführende Informationen](https://developer.apple.com/ios/human-interface-guidelines/technologies/apple-pay/)
 ## Ressourcen
 Apple stellt [hier](https://developer.apple.com/design/resources/#ios-apps) UI Design Templates für Photoshop, Sketch und Adobe XD zur Verfügung. Dies ermöglich es ein realistisches und den Guidelines bereits angepasstes Design zu entwerfen.
