@@ -44,7 +44,7 @@ Apple stellt mehrere Designs für **Buttons** ([Link](https://developer.apple.co
 Ein **Picker** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/pickers/)) ermöglicht es Nutzern schnell aus einer Menge an bereitgestellten Werten den gewünschten auszuwählen. Die Daten sollten hierbei vorhersehbar und logisch angeordnet werden. Apple stellte standardmäßig einen Date Picker zur Verfügung.
 
 Weitere Elemente, die es Nutzern ermöglichen aus vorgegebenen Werten auszuwählen sind **Slider** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/sliders/)) über die Werte zwischen einem Minimal- und einem Maximalwert ausgewählt werden können, **Stepper** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/steppers/)), die es ermöglichen Werte inkrementell anzupassen und **Switches** ([Link](https://developer.apple.com/ios/human-interface-guidelines/controls/switches/)), bei denen zwischen an und aus gewählt werden kann. Bei allen diesen Elementen ist es wichtig, dem Nutzer bewusst zu machen, welche Änderungen er vornimmt.   
-## Systemfähigkeiten
+## Systemfeatures
 **Multitasking** ([Link](https://developer.apple.com/ios/human-interface-guidelines/system-capabilities/multitasking/)) bietet den Nutzen die Möglichkeit schnell und bequem zwischen mehreren Apps hin- und herzuwechseln. Um dieses grundlegende Feature von iOS zu unterstützen sollte darauf geachtet werden, dass die App nur so viele Systemressourcen beansprucht, wie wirklich benötigt. Des weiteren ist sollte die App ihren aktuellen Zustand beim Schließen schnell speichern und beim erneuten Öffen schnell wiederherstellen. Initierte Tasks, die keine weitere Benutzereingabe erfordern, sollten auch beim Schließen der App durchgeführt werden. 
 
 Das Anzeigen von **Mitteilungen** ([Link](https://developer.apple.com/ios/human-interface-guidelines/system-capabilities/notifications/)) geben einer App die Möglichkeit Nutzer zu informieren, wenn sich die Daten oder der Status der App geändert hat. Die angezeigte Nachricht sollte sich auf das Übermitteln nützlicher Informationen beschränken. Name und Icon der App werden hierbei automatisch angezeigt. Es sollte vermieden werden, zu viele und besonders mehrere gleiche Mitteilungen an den Nutzer zu senden.  
@@ -71,12 +71,14 @@ Eine **Tab Bar** ([Link](https://developer.apple.com/ios/human-interface-guideli
 
 Mittels einer **Toolbar** ([Link](https://developer.apple.com/ios/human-interface-guidelines/bars/toolbars/)) können dem Nutzer am unteren Bildschirmrand Aktionen ausführen, die die aktuelle Ansicht oder deren Inhalt betreffen. Es sollte sich auf häufig durchzuführende Aktionen beschränkt werden, die sich bestenfalls ausschließlich durch Icons darstellen lassen.  
 ### Ansichten
-**Tabelle**
-**Karte**
-**Split View**
-**Scroll View**
+Die **Tabelle** ([Link](https://developer.apple.com/ios/human-interface-guidelines/views/tables/)) ist eine Ansicht mit einer Spalte und vieler Zeilen, welche in Sektionen und Gruppen unterteilt werden können. Der Aufbau einer Tabelle beim Laden von Daten sollte modular erfolgen um den Nutzer schnell mit Informationen zu versorgen. Die Tabelle sollte sich automatisch und manuel aktualisieren lassen.
+
+Eine **Scroll View** ([Link](https://developer.apple.com/ios/human-interface-guidelines/views/scroll-views/)) kann genutzt werden, um Inhalte anzuzeigen, die größer sind als der eigentliche Bildschirm des Gerätes. Es sollte immer nur eine Scroll View gleichzeitig angezeigt werden und eine Scroll View sollte niemals eine anderen beinhalten.
+
 **Popover**
+
 **Action Sheet**
+
 **Meldung**
 ## Technologien
 Apple stellt eine Vielzahl an Technologien (z.B. Apple Pay, iCloud oder verschieden sogenannte Kits) bereit. Durch die Implementierung dieser kann die App ohne großen Entwicklungsaufwand um Features erweitert werden, die iOS-Benutzer kennen und schätzen. Hierbei sollte jedoch darauf geachtet werden, dass die genutzen Technologien sich für den jeweiligen Anwendungsfall der App eignen und ihre Implementierung für den Nutzer einen Mehrwert schafft.
