@@ -1,5 +1,5 @@
 # Apple Human Interface Guidelines für iOS
-Human Interface Guidelines (HIG) dienen Entwicklern und Designern als **Leitfaden zur Erstellung einer benutzerfreudlichen und intuitiven Applikation**. Die meisten dieser Guidelines haben zudem die Funktion den Apps einer Anwendungsumgebung einen einheitlichen "Look and Feel" zu geben. Dies bedeutet, dass sowohl das visuelle Design als auch das Verhalten der Anwendungenen konsistent sein sollte.  Die Nutzung dieser Guidelines ist keine Pflicht, jedoch behält Apple es sich vor Apps ,die schwer gegen die Design-Philosophie verstoßen und grundlegende Elemente entgegen ihres Sinnes nutzen, nicht für den Store freizugeben.
+Human Interface Guidelines dienen Entwicklern und Designern als **Leitfaden zur Erstellung einer benutzerfreudlichen und intuitiven Applikation**. Die meisten dieser Guidelines haben zudem die Funktion den Apps einer Anwendungsumgebung einen einheitlichen "Look and Feel" zu geben. Dies bedeutet, dass sowohl das visuelle Design als auch das Verhalten der Anwendungenen konsistent sein sollte.  Die Nutzung dieser Guidelines ist keine Pflicht, jedoch behält Apple es sich vor Apps ,die schwer gegen die Design-Philosophie verstoßen und grundlegende Elemente entgegen ihres Sinnes nutzen, nicht für den Store freizugeben.
 
 Dieses Dokument gibt ihnen einen **Überblick** der wichtigsten Inhalte.
 
@@ -75,9 +75,9 @@ Die **Tabelle** ([Link](https://developer.apple.com/ios/human-interface-guidelin
 
 Eine **Scroll View** ([Link](https://developer.apple.com/ios/human-interface-guidelines/views/scroll-views/)) kann genutzt werden, um Inhalte anzuzeigen, die größer sind als der eigentliche Bildschirm des Gerätes. Es sollte immer nur eine Scroll View gleichzeitig angezeigt werden und eine Scroll View sollte niemals eine anderen beinhalten.
 
-**Popover**
+Ein **Popover** ([Link](https://developer.apple.com/ios/human-interface-guidelines/views/popovers/)) ist eine Detailansicht, die über die aufrufende Ansicht gelegt wird und diese in Teilen verdeckt. Diese Ansicht sollte ausschließlich bei Ipad-Apps verwendet werden. Das Popover sollte einen Button zum Abschließen und einen Button zum Abbrechen beinhalten. 
 
-**Action Sheet**
+Ein **Action Sheet** ist eine Meldung die dem zwei oder mehr, auf den aktuellen Kontext bezogen, Entscheidungsmöglichkeiten bietet. Die unterste Entscheidung sollte dem Nutzer die Möglichkeit geben die aktuellen Aktion abzubrechen. Entscheidungen, die einen destruktiven oder unumkehrbaren Effekt haben sollten rot sein und am oberen Ende der Entscheidungen stehen. 
 
 **Meldung**
 ## Technologien
