@@ -77,9 +77,9 @@ Eine **Scroll View** ([Link](https://developer.apple.com/ios/human-interface-gui
 
 Ein **Popover** ([Link](https://developer.apple.com/ios/human-interface-guidelines/views/popovers/)) ist eine Detailansicht, die über die aufrufende Ansicht gelegt wird und diese in Teilen verdeckt. Diese Ansicht sollte ausschließlich bei Ipad-Apps verwendet werden. Das Popover sollte einen Button zum Abschließen und einen Button zum Abbrechen beinhalten. 
 
-Ein **Action Sheet** ist eine Meldung die dem zwei oder mehr, auf den aktuellen Kontext bezogen, Entscheidungsmöglichkeiten bietet. Die unterste Entscheidung sollte dem Nutzer die Möglichkeit geben die aktuellen Aktion abzubrechen. Entscheidungen, die einen destruktiven oder unumkehrbaren Effekt haben sollten rot sein und am oberen Ende der Entscheidungen stehen. 
+Ein **Action Sheet** ([Link](https://developer.apple.com/ios/human-interface-guidelines/views/action-sheets/)) ist eine Meldung die dem zwei oder mehr, auf den aktuellen Kontext bezogen, Entscheidungsmöglichkeiten bietet. Die unterste Entscheidung sollte dem Nutzer die Möglichkeit geben die aktuellen Aktion abzubrechen. Entscheidungen, die einen destruktiven oder unumkehrbaren Effekt haben sollten rot sein und am oberen Ende der Entscheidungen stehen. 
 
-**Meldung**
+Eine **Meldung** ([Link](https://developer.apple.com/ios/human-interface-guidelines/views/alerts/)) ist eine Möglichkeit die Aufmerksamkeit des Nutzers auf eine bestimmen Umstand zu lenken und im optional zwei Entscheidungsalternativen zu bieten. Titel und Inhalt der Meldung sollten kurz und präzise sein. Die Entscheidungsalternativen sollten mit ein bis zwei Wörtern erklärt werden. "Ja" und "Nein" sollten nicht genutzt werden. Entscheidungen mit destruktiven Folgen sind in rot darzustellen.
 ## Technologien
 Apple stellt eine Vielzahl an Technologien (z.B. Apple Pay, iCloud oder verschieden sogenannte Kits) bereit. Durch die Implementierung dieser kann die App ohne großen Entwicklungsaufwand um Features erweitert werden, die iOS-Benutzer kennen und schätzen. Hierbei sollte jedoch darauf geachtet werden, dass die genutzen Technologien sich für den jeweiligen Anwendungsfall der App eignen und ihre Implementierung für den Nutzer einen Mehrwert schafft.
 
