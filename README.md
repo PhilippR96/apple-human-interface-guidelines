@@ -59,6 +59,9 @@ Richtig eingesetzt können **Animationen** ([Link](https://developer.apple.com/i
 
 Die Beachtung der **Terminologie** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/terminology/)) und der **Typografie** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/)) ermöglicht es dem Benutzer ein angenehmes Leseerlebnis zu schaffen. Wörter und Sätze sollten der Zielgruppe entsprechend gewählt werden und Informationen kurz und prägnant bereitstellen. Die Beschreibung von Interaktionen sollte konsistent sein. Die gewählte Schriftart sollte über die gesamte App hinweg einheitlich sein und nur zum Anzeigen wichtiger Informationen verändert werden. Apple empfiehlt die Benutzung der bereitgestellten Text Styles.
 ### Icons und Bilder
+Es ist zu beachten, dass verschiedene Auflösungen bereitgestellt werden müssen, um eine Vielzahl an Geräten zu unterstützen. Das App Icon als Einstiegspunkt in die App sollte einprägsam sein und die Funktion dieser so simple wie möglich verdeutlichen. Innerhalb der App sollten die standardiserten System App genutzt werden, wo immer dies möglich ist. Appspezifische Icons sollten simple und konsistent sein. Der Startbildschirm sollte der ersten Ansicht, mit der Nutzer nach dem Laden interagieren können, ähneln und keinen Text beinhalten, da dieser nicht lokalisierbar ist.
+
+([Weiterführende Informationen](https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/image-size-and-resolution/))
 ### Bars
 ### Ansichten
 **Tabelle**
