@@ -53,11 +53,11 @@ Die Integration von **Siri** ([Link](https://developer.apple.com/ios/human-inter
 ## Visuelles Design
 Das **Layout** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/)) der App sollte so gewählt werden, dass der primäre Inhalt im Fokus steht und Nutzer mit einzelnen Elementen problemlos interagieren können. Die Nutzung von Auto Layout ermöglicht es den Abstand von Elementen einer Ansicht untereinander festzulegen. Bei der Rotathttps://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/ion des Bildschirms wird das Layout dann dynamisch an die Ausrichtung angepasst, der Aufbau der Ansicht bleibt aber erhalten. 
 
-**Animationen**
+Richtig eingesetzt können **Animationen** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/animation/)) das Nutzererlebnis deutlich berbessern. Es sollte darauf geachtet werden, dass Animationen sich realistisch anfüllen und sozusagen den Gesetzten der Physik folgen. Man sollte darauf achten nicht zu viele und zu umfangreiche Animationen zu verwenden, da die App ansonsten überfrachtet wirkt. Ein guter Anhaltspunkt sind die standardmäßigen Animationen des iOS-Betriebssystems.
 
-**Farben**
+**Farben** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/)) sind ein einfacher Weg mit dem Nutzer zu kommunizieren. Die innerhalb einer App genutzten Farbpalette sollte konsisten und nicht zu umfangreich sein. Hierbei sollte eine Farbe als Indikator für Interaktivität gewählt werden. Sehschwächen und kulturelle Unterschiede sollten bei der Farbwahl beachtet und 
 
-**Terminology** und **Typography**
+Die Beachtung der **Terminologie** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/terminology/)) und der **Typografie** ([Link](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/)) ermöglicht es dem Benutzer ein angenehmes Leseerlebnis zu schaffen. Wörter und Sätze sollten der Zielgruppe entsprechend gewählt werden und Informationen kurz und prägnant bereitstellen. Die Beschreibung von Interaktionen sollte konsistent sein. Die gewählte Schriftart sollte über die gesamte App hinweg einheitlich sein und nur zum Anzeigen wichtiger Informationen verändert werden. Apple empfiehlt die Benutzung der bereitgestellten Text Styles.
 ### Icons und Bilder
 ### Bars
 ### Ansichten
